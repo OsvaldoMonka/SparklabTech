@@ -1,15 +1,14 @@
 {
   "sparklab":{
-      "data": [
-        { "id": 1, "Wordpress": "We have wordpress devs" },
-        { "id": 2, "Salesforce": "We have salesforce devs" },
-        { "id": 3, "React": "We have React devs" },
-        { "id": 4, "Java": "We have java devs" }
+      "tech": [
+        { "id": 1, "name": "Web Development", "Desc": "Sparklab has a significant experience in Web and App development and is now upgrading the internal skills to the most advanced software development tools: Agile and Scrum methodologies are the fundamental competences of our teams." },
+        { "id": 2, "name": "Salesforce", "Desc": "Salesforce is the world’s #1 customer relationship management (CRM) platform. We help your marketing, sales, commerce, service and IT teams work as one from anywhere to keep customers happy everywhere. Salesforce is a cloud-based CRM software that helps businesses connect with and get more information about their customer base. Another platform of the Sparklab offers." },
+        { "id": 3, "name": "Software development", "Desc": "Sparklab has a significant experience in Software and App development and is now upgrading the internal skills to the most advanced software development tools: Agile and Scrum methodologies are the fundamental competences of our teams." }
       ],
       "hobbies": [
-        { "id": 1, "name": "Hiking", "description" : "some comments about hiking"},
-        { "id": 2, "name": "Paintball", "description" : "some comments about paintballs"},
-        { "id": 3, "name": "Footballs", "description" : "some comments about football"}
-      ]
+        { "id": 1, "name": "Hiking", "description" : "Hiking is a long, vigorous walk, usually on trails or footpaths in the countryside. Walking for pleasure developed in Europe during the eighteenth century. Religious pilgrimages have existed much longer but they involve walking long distances for a spiritual purpose associated with specific religions."},
+        { "id": 2, "name": "Paintball", "description" : "A game in which participants simulate military combat using airguns to shoot capsules of paint at each other."},
+        { "id": 3, "name": "Footballs", "description" : "Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used."}
+      ],
    }
 }
