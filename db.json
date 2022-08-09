@@ -16,23 +16,6 @@
             "name":"Software development",
             "Desc":"Sparklab has a significant experience in Software and App development and is now upgrading the internal skills to the most advanced software development tools: Agile and Scrum methodologies are the fundamental competences of our teams."
          }
-      ],
-      "hobbies":[
-         {
-            "id":1,
-            "name":"Hiking",
-            "description":"Hiking is a long, vigorous walk, usually on trails or footpaths in the countryside. Walking for pleasure developed in Europe during the eighteenth century. Religious pilgrimages have existed much longer but they involve walking long distances for a spiritual purpose associated with specific religions."
-         },
-         {
-            "id":2,
-            "name":"Paintball",
-            "description":"A game in which participants simulate military combat using airguns to shoot capsules of paint at each other."
-         },
-         {
-            "id":3,
-            "name":"Footballs",
-            "description":"Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used."
-         }
       ]
    }
 }
