@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "data": [
+    { "id": 1, "Wordpress": "We have wordpress devs" },
+    { "id": 2, "Salesforce": "We have salesforce devs" },
+    { "id": 3, "React": "We have React devs" },
+    { "id": 4, "Java": "We have java devs" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "hobbies": [
+    { "id": 1, "name": "Hiking", "description" : "some comments about hiking"},
+    { "id": 2, "name": "Paintball", "description" : "some comments about paintballs"},
+    { "id": 3, "name": "Footballs", "description" : "some comments about football"}
   ],
-  "profile": {
-    "name": "typicode"
+  "company": {
+    "name": "sparklab"
   }
 }
