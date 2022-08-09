@@ -10,9 +10,6 @@
         { "id": 1, "name": "Hiking", "description" : "some comments about hiking"},
         { "id": 2, "name": "Paintball", "description" : "some comments about paintballs"},
         { "id": 3, "name": "Footballs", "description" : "some comments about football"}
-      ],
-      "company": {
-        "name": "sparklab"
-      }
+      ]
    }
 }
