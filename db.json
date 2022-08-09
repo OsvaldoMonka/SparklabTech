@@ -1,5 +1,8 @@
 {
   "sparklab":{
+      "company": {
+        "name": "sparklab"
+      }
       "data": [
         { "id": 1, "Wordpress": "We have wordpress devs" },
         { "id": 2, "Salesforce": "We have salesforce devs" },
@@ -11,8 +14,5 @@
         { "id": 2, "name": "Paintball", "description" : "some comments about paintballs"},
         { "id": 3, "name": "Footballs", "description" : "some comments about football"}
       ],
-      "company": {
-        "name": "sparklab"
-      }
    }
 }
